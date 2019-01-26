@@ -6,8 +6,11 @@ To use weatherpatterns, you'll need to get set up Processing. You can install pr
 Edit the globals at the top of the file to match your specific parameters:
 
 `CANVAS_HEIGHT = y`
+
 `CANVAS_WIDTH = x`
+
 `CITY_STRING = your_city`
+
 `FILENAME = filename`
 
 For the [OpenWeatherMap](https://openweathermap.org/api) API to work correctly, your city 
