@@ -1,7 +1,7 @@
 # weatherpatterns
 A small processing project to make pretty pictures from the current weather
 
-To use weatherpatterns, you'll need to get set up Processing. You can install processing [here](https://processing.org/download/?processing). Getting Python mode for Processing is easy! A nice tutorial for it is [here](https://github.com/fboxwala/generative-art-workshop).
+To use weatherpatterns, you'll need to get set up Processing. You can install processing [here](https://processing.org/download/?processing). Getting Python mode for Processing is easy! A nice tutorial for it is [here](https://github.com/arocho/generative-art-workshop).
 
 Edit the globals at the top of the file to match your specific parameters:
 
@@ -17,6 +17,8 @@ For the [OpenWeatherMap](https://openweathermap.org/api) API to work correctly, 
 name has to be in the format `city,code` where code is the [ISO 3166 country code](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes).
 
 Otherwise, just hit "Run" to generate some pretty pictures!
+
+Credits to [arocho's PyCarribean workshop](https://github.com/arocho/generative-art-workshop) for inspiration for this project.
 
 Some examples of drawings that weatherpatterns generates:
 
